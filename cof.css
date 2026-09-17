@@ -117,7 +117,7 @@ html, body {
  background-color: black;
  opacity: 0.70;
 }
-#flat .parallax-one {
+#flatpic .parallax-one {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -131,7 +131,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-#flat .parallax-one {
+#flatpic2 .parallax-one {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -145,7 +145,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#flat .parallax-one {
+#flatpic3 .parallax-one {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -202,4 +202,3 @@ html, body {
   width: 290px;
  }
 }
-
