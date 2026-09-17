@@ -131,7 +131,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-#flat .parallax-one {
+#flat .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -145,7 +145,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#flat .parallax-two {
+#flat .parallax-three {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
