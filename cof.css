@@ -131,7 +131,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-#flatpic2 .parallax-one {
+#flat .parallax-one {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -145,7 +145,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#flatpic3 .parallax-one {
+#flat .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -159,17 +159,17 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#flat1 .line-break {
+#flat .line-break1 {
  background: linear-gradient(60deg, #blue, #skyblue, #green);
  width: 100%;
  margin: 0 auto;
 }
-#flat2 .line-break {
+#flat .line-break2 {
  background: linear-gradient(60deg, #blue, #skyblue, #green);
  width: 100%;
  margin: 0 auto;
 }
-#flat3 .line-break {
+#flat .line-break3 {
  background: linear-gradient(60deg, #blue, #skyblue, #green);
  width: 100%;
  margin: 0 auto;
