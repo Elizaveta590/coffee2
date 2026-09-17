@@ -42,7 +42,7 @@ html, body {
  font-size: 70px;
  letter-spacing: 10px;
  text-align: center;
- color: white;
+ color: black;
  font-weight: 400;
  text-transform: uppercase;
  z-index: 10;
@@ -131,7 +131,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-#flat .parallax-two {
+#flat .parallax-one {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -145,7 +145,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#flat .parallax-three {
+#flat .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
