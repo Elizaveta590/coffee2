@@ -73,6 +73,18 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
+.hh {
+	color: blue;
+	font-family: "Arial", sans-serif;
+}
+.hh2 {
+	color: blue;
+	font-family: "Arial", sans-serif;
+}
+.hh3 {
+	color: blue;
+	font-family: "Arial", sans-serif;
+}
 #flat .title {
  background: white;
  padding: 60px;
@@ -147,17 +159,17 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#flat .line-break {
+#flat1 .line-break {
  background: linear-gradient(60deg, #blue, #skyblue, #green);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break {
+#flat2 .line-break {
  background: linear-gradient(60deg, #blue, #skyblue, #green);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break {
+#flat3 .line-break {
  background: linear-gradient(60deg, #blue, #skyblue, #green);
  width: 100%;
  margin: 0 auto;
@@ -190,3 +202,4 @@ html, body {
   width: 290px;
  }
 }
+
